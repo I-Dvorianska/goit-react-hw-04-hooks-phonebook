@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/goit-react-hw-04-hooks-phonebook/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.94d72115.chunk.js",
-    "main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.94d72115.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.62702610.js",
-    "runtime-main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.62702610.js.map",
-    "static/js/2.9389eb9a.chunk.js": "/goit-react-hw-04-hooks-phonebook/static/js/2.9389eb9a.chunk.js",
-    "static/js/2.9389eb9a.chunk.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/2.9389eb9a.chunk.js.map",
+    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.d242fc2c.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.d242fc2c.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.e553d749.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.e553d749.js.map",
+    "static/js/2.84fbb064.chunk.js": "/goit-react-hw-04-hooks-phonebook/static/js/2.84fbb064.chunk.js",
+    "static/js/2.84fbb064.chunk.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/2.84fbb064.chunk.js.map",
     "index.html": "/goit-react-hw-04-hooks-phonebook/index.html",
     "static/css/main.4a4137e4.chunk.css.map": "/goit-react-hw-04-hooks-phonebook/static/css/main.4a4137e4.chunk.css.map",
-    "static/js/2.9389eb9a.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-phonebook/static/js/2.9389eb9a.chunk.js.LICENSE.txt"
+    "static/js/2.84fbb064.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-phonebook/static/js/2.84fbb064.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62702610.js",
-    "static/js/2.9389eb9a.chunk.js",
+    "static/js/runtime-main.e553d749.js",
+    "static/js/2.84fbb064.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.94d72115.chunk.js"
+    "static/js/main.d242fc2c.chunk.js"
   ]
 }
