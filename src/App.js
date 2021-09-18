@@ -71,7 +71,7 @@ function App() {
       <ContactForm onSubmit={addContact} />
       <SecondaryTitle>Contacts</SecondaryTitle>
       <Filter onChange={handleFilter} value={filter} />
-      <ContactList contacts={visibleContacts()} deleteId={deleteContact} />)
+      <ContactList contacts={visibleContacts()} deleteId={deleteContact} />
     </>
   );
 }
